@@ -1,9 +1,10 @@
-var doSomething =function(paramOne){
-    alert(paramOne);
-    var chumma="Hai chumma how are you";
-    var local=function hello(hai){
-      alert(chumma);
-    };
-    local();
-};
-doSomething(10);
+
+(function(){
+
+var el=document.createElement("p"),
+    content=document.createTextNode("<h1> This the text added using java Script </h1>");
+
+el.appendChild(content);
+document.body.appendChild(el);
+
+}());

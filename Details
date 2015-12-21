@@ -1,0 +1,33 @@
+Git Bash:
+----------------
+1.open Gitbash
+2.goto the the vagrant file
+3.do vagrant up   -----> it is used for provisioning the softwares. for deploying problem, for sharing files between host and guest, 
+4.get cmd using vagrant --help
+5.vagrant ssh    -----> cd /vagrant
+5.static -a 0.0.0.0
+
+
+https://new-bucket-e1777.s3-eu-west-1.amazonaws.com/SOFTWARES.zip
+https://new-bucket-e1777.s3-eu-west-1.amazonaws.com/castrol_rd.zip
+https://new-bucket-e1777.s3-eu-west-1.amazonaws.com/castrol.zip
+https://new-bucket-e1777.s3-eu-west-1.amazonaws.com/aral_de.zip
+
+Amazon:
+-------------------
+
+#6666FF
+
+Server Name : ec2-54-251-140-208.ap-southeast-1.compute.amazonaws.com
+http://ec2-54-251-140-208.ap-southeast-1.compute.amazonaws.com/~arul.srinivasan1/
+http://ec2-54-251-140-208.ap-southeast-1.compute.amazonaws.com/~arul.srinivasan1/myproject/
+
+
+follow canvas template :
+------------------------------
+
+1. http://themes.semicolonweb.com/html/canvas/services.php
+
+2. http://themes.semicolonweb.com/html/canvas/portfolio-3.php
+
+

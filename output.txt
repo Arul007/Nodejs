@@ -1,0 +1,12 @@
+{
+"\"2005 PPP conversion factor, GDP (LCU per international $)\"":
+[{"Country Name":"Afghanistan","Country Code":"AFG"}],
+
+
+"\"2005 PPP conversion factor, private consumption (LCU per international $)\"":
+[{"Country Name":"Afghanistan","Country Code":"AFG"}],
+
+
+"population)":
+[{"Country Name":"Afghanistan","Country Code":"AFG"}]
+}
